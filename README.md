@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kuldeep varma</h1>
 <h4 align="center">Aspiring DevOps & Cybersecurity Engineer | Automating Systems & Securing the Cloud</h4>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kuldeep1436&label=Profile%20views&color=0e75b6&style=flat" alt="Kuldeep1436" />
+</p>
+
+<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
+
 Hi! I’m Kuldeep from Nashik, building a career in DevOps & Cybersecurity. I love automating systems, securing apps, and exploring cloud technologies like AWS, Docker, and Kubernetes. Always learning and experimenting with new tools!
 
 
