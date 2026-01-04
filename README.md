@@ -1,8 +1,12 @@
+# 👋 Hi, I’m Kuldeep Varma
+
+
 # 💫 About Me:
+### Aspiring DevOps & Cybersecurity Engineer | Automating Systems & Securing the Cloud
 Hi! I’m Kuldeep from Nashik, building a career in DevOps & Cybersecurity. I love automating systems, securing apps, and exploring cloud technologies like AWS, Docker, and Kubernetes. Always learning and experimenting with new tools!
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kuldeep-varma-554a7236b  ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuldeepvarma098@gmail.com) 
 
 # 💻 Tech Stack:
